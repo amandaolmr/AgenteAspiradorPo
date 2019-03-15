@@ -58,8 +58,7 @@ public class Aspirador {
 
 		}
 		ambienteVetor();
-//		System.out.println("AQUI --> [ " + local[0] + " " + local[1] + " ]");
-		//acaoAgente();
+		//acaoAgente(); //OBS: Tirando o LOOP 
 
 		atualizarMemoria();
 	}
